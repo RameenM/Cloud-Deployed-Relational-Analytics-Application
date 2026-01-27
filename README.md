@@ -146,15 +146,6 @@ Key dependencies:
 - `psycopg2-binary` — PostgreSQL connectivity
 - `openai` *(optional)* — natural language to SQL generation
 
----
-
-## File Structure
-├── cleaned_customer_orders.csv
-├── database_schema_validation.ipynb
-├── sqlite_to_postgres_migration.py
-├── streamlit_app.py
-├── requirements.txt
-└── README.md
 
 ---
 
